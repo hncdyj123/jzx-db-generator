@@ -9,4 +9,6 @@ java -jar jzx-db-generator.jar test jdbc:mysql://localhost:3306/test root root12
 ```
 
 ## 生成效果图
+![image](https://github.com/hncdyj123/jzx-db-generator/blob/master/images/result.png)
 
+## 喜欢请帮忙点击下项目右上角的star
